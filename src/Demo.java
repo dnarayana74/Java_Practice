@@ -1,3 +1,4 @@
+
 public class Demo {
 
 	public static void main(String[] args) {
@@ -13,7 +14,24 @@ public class Demo {
 	System.out.println("\n double converted to byte");
 	b = x;
 	System.out.println("b and x "+b +" "+x);
-	
+	System.out.println("Sathya");
 	}
+}
+
+
+
+
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
